@@ -16,8 +16,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Domain\SimpleCQRSApp.Domain.csproj" />
-    <ProjectReference Include="..\Infrastructure\SimpleCQRSApp.Infrastructure.csproj" />
+    <ProjectReference Include="..\SimpleCQRSApp.Domain\SimpleCQRSApp.Domain.csproj" />
+    <ProjectReference Include="..\SimpleCQRSApp.Infrastructure\SimpleCQRSApp.Infrastructure.csproj" />
   </ItemGroup>
 
 </Project>

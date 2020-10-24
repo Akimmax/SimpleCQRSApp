@@ -10,7 +10,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Infrastructure\SimpleCQRSApp.Infrastructure.csproj" />
+    <ProjectReference Include="..\SimpleCQRSApp.Infrastructure\SimpleCQRSApp.Infrastructure.csproj" />
   </ItemGroup>
 
 </Project>
